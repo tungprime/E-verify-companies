@@ -1,5 +1,5 @@
 # E-verify-companies
-In this project, we will use the government's data get a systematic understanding about companies enrolled in the E-verify program. 
+In this project, we will use a public dataset to get a systematic understanding about companies enrolled in the E-verify program. 
 
 The data is collected from the following website. 
 
